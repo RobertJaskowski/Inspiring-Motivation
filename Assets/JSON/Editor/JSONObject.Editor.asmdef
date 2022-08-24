@@ -1,0 +1,17 @@
+{
+    "name": "JSONObject.Editor",
+    "references": [
+        "GUID:1c4318b7d76524d4b9b6524634a04ba2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

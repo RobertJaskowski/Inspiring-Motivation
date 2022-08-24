@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469883061598",
+    "firebase_url": "https://inspiring-motivation-d7126.firebaseio.com",
+    "project_id": "inspiring-motivation-d7126",
+    "storage_bucket": "inspiring-motivation-d7126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469883061598:android:2efe4f5383de24db2bbbcf",
+        "android_client_info": {
+          "package_name": "com.InspiredMedia.InspiringMotivation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469883061598-q9pq2vvkh8p84if3lmg3udcv72hc4u4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoi37tjBvRsE4OT3fRN5GqGmTzyarCBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469883061598-q9pq2vvkh8p84if3lmg3udcv72hc4u4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
